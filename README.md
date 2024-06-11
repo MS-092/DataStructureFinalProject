@@ -1,1 +1,1 @@
-The folder StudentDatabaseAL contains the code for the ArrayList version
+To access the ArrayList version of the program, open the 'StudentDatabaseAL' folder and open the src folder which contains the 'StudentGradingSystem" java file
