@@ -1,1 +1,7 @@
-To access the ArrayList version of the program, open the 'StudentDatabaseAL' folder and open the src folder which contains the 'StudentGradingSystem" java file
+<h1>Data Structure Final Project</h1>
+<br>
+<h2>Student Management System</h2>
+<h4>Members:</h4>
+  <ul>Steven Gerald Marlent</ul>
+  <ul>Matthew Staniswinata</ul>
+  <ul>Ryan Patrick Komala</ul>
